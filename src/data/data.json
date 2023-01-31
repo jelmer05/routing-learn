@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "price": 100,
+    "year": 2022,
+    "dealer": {
+      "name": "Dealer 1",
+      "tel": "555-555-1212",
+      "contact": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "price": 200,
+    "year": 2022,
+    "dealer": {
+      "name": "Dealer 2",
+      "tel": "555-555-1213",
+      "contact": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "price": 150,
+    "year": 2022,
+    "dealer": {
+      "name": "Dealer 3",
+      "tel": "555-555-1214",
+      "contact": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "price": 75,
+    "year": 2022,
+    "dealer": {
+      "name": "Dealer 4",
+      "tel": "555-555-1215",
+      "contact": false
+    }
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "price": 125,
+    "year": 2022,
+    "dealer": {
+      "name": "Dealer 5",
+      "tel": "555-555-1216",
+      "contact": false
+    }
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "price": 175,
+    "year": 2022,
+    "dealer": {
+      "name": "Dealer 6",
+      "tel": "555-555-1217",
+      "contact": true
+    }
+  }
+]
